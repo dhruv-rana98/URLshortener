@@ -1,0 +1,2 @@
+FLASK_ENV=development
+FLASK_APP=conftest.py
